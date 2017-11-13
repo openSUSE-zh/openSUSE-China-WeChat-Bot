@@ -1,0 +1,1 @@
+# openSUSE-China-WeChat-Bot
